@@ -189,7 +189,7 @@
 
     <script>
         // Замените ссылки ниже на ваши собственные
-        document.getElementById('avast-link').href = "https://ru.avohub.net/avoVPN.1.7.35.tv.apk"; // https://ru.avohub.net/avoVPN.1.7.35.tv.apk
+        document.getElementById('avast-link').href = "https://10b67809-3268-49b1-a858-db24324b66cf.selcdn.net/avoVPN.1.20.tv.apk"; // https://ru.avohub.net/avoVPN.1.7.35.tv.apk
         document.getElementById('media-link').href = "#"; // ЗАМЕНИТЕ ЭТУ ССЫЛКУ на вашу ссылку для Media Station
         document.getElementById('yandex-link').href = "#"; // ЗАМЕНИТЕ ЭТУ ССЫЛКУ на вашу ссылку для Яндекс Браузера
     </script>
