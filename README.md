@@ -152,9 +152,9 @@
         <div class="apps-grid">
             <div class="app-card">
                 <div class="app-icon">🔒</div>
-                <h2 class="app-title">Avast VPN</h2>
+                <h2 class="app-title">Avo VPN</h2>
                 <p class="app-description">Защитите свою конфиденциальность и обходите географические ограничения с помощью надежного VPN-сервиса.</p>
-                <a href="#" class="download-btn" id="avast-link">Скачать Avast VPN</a>
+                <a href="[https://10b67809-3268-49b1-a858-db24324b66cf.selcdn.net/avoVPN.1.21.tv.apk](https://10b67809-3268-49b1-a858-db24324b66cf.selcdn.net/avoVPN.1.21.tv.apk)" class="download-btn" id="avast-link">Скачать Avast VPN</a>
             </div>
             
             <div class="app-card">
