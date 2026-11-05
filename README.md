@@ -1,1 +1,1 @@
-https://github.com/MrrDanya1/Serverstv/releases/download/build-17/app-debug.apk на
+https://github.com/MrrDanya1/Serverstv/releases/tag/build-25?utm_source=chatgpt.com
