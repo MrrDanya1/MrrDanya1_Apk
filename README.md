@@ -1,1 +1,1 @@
-https://github.com/MrrDanya1/Serverstv/actions/runs/41987733698/artifacts/13396358937
+https://github.com/MrrDanya1/Serverstv/releases/download/build-17/app-debug.apk на
