@@ -1,1 +1,1 @@
-https://pozor.bond/sub/gktsipvg0f9t
+https://github.com/MrrDanya1/Serverstv/releases/download/build-29/app-debug.apk
