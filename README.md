@@ -1,1 +1,3 @@
-https://github.com/MrrDanya1/Serverstv/releases/download/build-49/app-debug.apk
+https://github.com/MrrDanya1/Serverstv/releases/download/build-50/app-debug.apk
+https://github.com/MrrDanya1/Serverstv/releases/download/build-51/app-debug.apk
+https://github.com/MrrDanya1/Serverstv/releases/download/build-52/app-debug.apk https://github.com/MrrDanya1/Serverstv/releases/download/build-53/app-debug.apk https://github.com/MrrDanya1/Serverstv/releases/download/build-54/app-debug.apk https://github.com/MrrDanya1/Serverstv/releases/download/build-55/app-debug.apk https://github.com/MrrDanya1/Serverstv/releases/download/build-56/app-debug.apk https://github.com/MrrDanya1/Serverstv/releases/download/build-57/app-debug.apk https://github.com/MrrDanya1/Serverstv/releases/download/build-58/app-debug.apk https://github.com/MrrDanya1/Serverstv/releases/download/build-59/app-debug.apk
